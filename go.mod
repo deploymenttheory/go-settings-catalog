@@ -4,7 +4,7 @@ go 1.25.0
 
 require (
 	github.com/Azure/azure-sdk-for-go/sdk/azidentity v1.14.0
-	github.com/microsoftgraph/msgraph-beta-sdk-go v0.164.0
+	github.com/microsoftgraph/msgraph-beta-sdk-go v0.165.0
 	github.com/spf13/cobra v1.10.2
 	github.com/spf13/viper v1.21.0
 	howett.net/plist v1.0.1
