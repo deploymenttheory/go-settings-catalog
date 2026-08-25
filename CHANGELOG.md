@@ -5,6 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## 0.1.0 (2026-08-25)
+
+
+### Features
+
+* 1st commit ([a3d6e67](https://github.com/deploymenttheory/go-settings-catalog/commit/a3d6e67fbc09020d861f27d1dd1fb30b2eae023b))
+
 ## [Unreleased]
 
 ### Added
